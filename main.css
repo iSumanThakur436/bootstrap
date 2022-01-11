@@ -1,0 +1,26 @@
+body{
+  padding: 10px;
+}
+.svg{
+  position: absolute;
+
+}
+.contain{
+  padding-top: 40px;
+}
+.percent{
+  padding: 80px;
+}
+.course{
+  padding: 40px;
+}
+h2{
+  padding: 10px;
+  padding-left: 30px;
+  color: #0099ff;
+}
+.info{
+  padding: 20px;
+  padding-left: 40px;
+  color: #0099ff;
+}
